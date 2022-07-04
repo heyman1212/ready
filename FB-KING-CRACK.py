@@ -7,9 +7,9 @@ except:
     import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-	jalan("🌺 Assalamu alaikum 🌺")
+	print("🌺 Assalamu alaikum 🌺")
 	time.sleep(2)
-    jalan("\n\x1b[1;92m Congratulations ! Your Device Support this Tools 🙋")
+    print("\n\x1b[1;92m Congratulations ! Your Device Support this Tools 🙋")
     print(' Join our Facebook group ❤ ')
     os.system('xdg-open https://www.facebook.com/groups/blackmafiax.pamming.squad/?ref=share');time.sleep(3)
     from FIRE import Subscraption
